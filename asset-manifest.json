@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/signaturedoggrooming/static/css/main.bda78bfb.chunk.css",
+    "main.js": "/signaturedoggrooming/static/js/main.1592eabe.chunk.js",
+    "main.js.map": "/signaturedoggrooming/static/js/main.1592eabe.chunk.js.map",
+    "runtime-main.js": "/signaturedoggrooming/static/js/runtime-main.b1600a93.js",
+    "runtime-main.js.map": "/signaturedoggrooming/static/js/runtime-main.b1600a93.js.map",
+    "static/css/2.de424728.chunk.css": "/signaturedoggrooming/static/css/2.de424728.chunk.css",
+    "static/js/2.b4a6ea33.chunk.js": "/signaturedoggrooming/static/js/2.b4a6ea33.chunk.js",
+    "static/js/2.b4a6ea33.chunk.js.map": "/signaturedoggrooming/static/js/2.b4a6ea33.chunk.js.map",
+    "index.html": "/signaturedoggrooming/index.html",
+    "precache-manifest.a5341d753eb5e26201da00f6cd10358e.js": "/signaturedoggrooming/precache-manifest.a5341d753eb5e26201da00f6cd10358e.js",
+    "service-worker.js": "/signaturedoggrooming/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/signaturedoggrooming/static/css/2.de424728.chunk.css.map",
+    "static/css/main.bda78bfb.chunk.css.map": "/signaturedoggrooming/static/css/main.bda78bfb.chunk.css.map",
+    "static/js/2.b4a6ea33.chunk.js.LICENSE.txt": "/signaturedoggrooming/static/js/2.b4a6ea33.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/signaturedoggrooming/static/media/banner.6d14f026.jpg",
+    "static/media/dog1.jpg": "/signaturedoggrooming/static/media/dog1.4796f0c6.jpg",
+    "static/media/dog2.jpg": "/signaturedoggrooming/static/media/dog2.0569a9dd.jpg",
+    "static/media/dog3.jpg": "/signaturedoggrooming/static/media/dog3.bc5f7d2f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1600a93.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.b4a6ea33.chunk.js",
+    "static/css/main.bda78bfb.chunk.css",
+    "static/js/main.1592eabe.chunk.js"
+  ]
+}
